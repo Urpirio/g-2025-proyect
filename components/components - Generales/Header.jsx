@@ -4,7 +4,7 @@ import Logo from '@/../public/img/img - Home/Rectangle 101.png'
 
 export default function Header() {
   return (
-    <header className="flex border border-gray-300 shadow-2xs justify-between items-center sticky top-0 py-4 px-5">
+    <header className="flex border border-gray-300 shadow-2xs justify-between items-center sticky top-0 z-30 py-4 px-5">
         <div className="flex  w-40 lg:w-p3   justify-start"> 
             <Image className="h-10 w-50 object-contain" src={Logo} alt=""/>
         </div>
