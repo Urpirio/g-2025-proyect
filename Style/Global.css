@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@theme {
+    --container-Max: 100%;
+    --container-p3: 30%;
+    --container-p4: 40%;
+    --color-fblue: #266BFF;
+}
