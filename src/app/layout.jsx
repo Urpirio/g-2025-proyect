@@ -1,3 +1,4 @@
+import '@/../Style/Global.css';
 
 export default function layout({children}) {
   return (
